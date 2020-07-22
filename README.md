@@ -6,6 +6,20 @@
 
  Soy **Consultor TI**, con más de 18 años de experiencia en tecnologías de la Información, he colaborado para **cervecería cuauhtémoc moctezuma, Calica (minería), Canaco Servytur Cancun, Banyan Tree Mayakoba, Oasis Hoteles.**  Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/html5.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/css3.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/js.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/sass.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/git.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/materializecss.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/visual.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/bootstrap.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/xd.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/illustrator.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/photoshop.svg"></code> 
 
 ## Donde me puedes encontrar
 
@@ -21,7 +35,8 @@ _Emprendimiento_
   + Fanpage **[Gisemx](https://www.facebook.com/gisecancun/)**
 
 
-### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
+
+#### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
 
 ![GitHub stars](https://img.shields.io/github/stars/Davermx/Davermx?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Davermx/Davermx?label=Fork&style=social)
