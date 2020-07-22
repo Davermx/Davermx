@@ -6,20 +6,20 @@
 
  Soy **Consultor TI**, con más de 18 años de experiencia en tecnologías de la Información, he colaborado para **cervecería cuauhtémoc moctezuma, Calica (minería), Canaco Servytur Cancun, Banyan Tree Mayakoba, Oasis Hoteles.**  Actualmente sigo capacitandome diseño web y espero llegar a ser un **Full Stack Developer**, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
 
-**Languages and Tools:**  
+**Apps y Herramientas que uso:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/html5.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/css3.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/js.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/sass.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/git.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/materializecss.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/visual.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/bootstrap.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/xd.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/illustrator.svg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/photoshop.svg"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Boostrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Xd.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Ilustrator.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Photoshop.png"></code>
 
 ## Donde me puedes encontrar
 
