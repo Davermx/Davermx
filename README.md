@@ -16,7 +16,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Boostrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Xd.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Ilustrator.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Photoshop.png"></code>
